@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "27B8E319-F6F5-4872-B6E1-96BA91A2A005"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EF110408-0BC0-425C-BB88-BD041D99A70D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MyTravelHelper/Modules/SearchTrains/View/SearchTrainViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "139"
+            endingLineNumber = "139"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "175C61E1-78E5-486E-8724-40B2670783A1"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MyTravelHelper/Modules/SearchTrains/Interactor/SearchTrainInteractor.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "107"
+            endingLineNumber = "107"
+            landmarkName = "proceesTrainListforDestinationCheck(trainsList:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "175C61E1-78E5-486E-8724-40B2670783A1 - 8d59c5c2c7490814"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 () -&gt; () in MyTravelHelper.SearchTrainInteractor.(proceesTrainListforDestinationCheck in _C68468EEF7361629AFE8C8AF098CBE11)(trainsList: Swift.Array&lt;MyTravelHelper.StationTrain&gt;) -&gt; ()"
+                  moduleName = "MyTravelHelper"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rajansingh/Downloads/TechTest%20(1)/MyTravelHelper/Modules/SearchTrains/Interactor/SearchTrainInteractor.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "107"
+                  endingLineNumber = "107"
+                  offsetFromSymbolStart = "72">
+               </Location>
+               <Location
+                  uuid = "175C61E1-78E5-486E-8724-40B2670783A1 - 41801e27ce551f5f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (MyTravelHelper.StationTrain) -&gt; Swift.Bool in closure #2 () -&gt; () in MyTravelHelper.SearchTrainInteractor.(proceesTrainListforDestinationCheck in _C68468EEF7361629AFE8C8AF098CBE11)(trainsList: Swift.Array&lt;MyTravelHelper.StationTrain&gt;) -&gt; ()"
+                  moduleName = "MyTravelHelper"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rajansingh/Downloads/TechTest%20(1)/MyTravelHelper/Modules/SearchTrains/Interactor/SearchTrainInteractor.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "107"
+                  endingLineNumber = "107"
+                  offsetFromSymbolStart = "48">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
